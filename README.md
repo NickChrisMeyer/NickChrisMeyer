@@ -35,7 +35,6 @@ I teach and create materials for modules such as IMAD5112. My research interests
 - Unit and instrumented tests with **MockK**, JUnit, and AndroidX test libraries.
 - **Firebase Test Lab** for device matrices in CI.
 - **dorny/test-reporter** for clean reporting on pull requests.
-- GitHub Actions workflows provided in this repo under `.github/workflows` as copy friendly examples.
 
 ## 📚 Recent Learning
 
