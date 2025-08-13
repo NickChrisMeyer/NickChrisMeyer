@@ -1,52 +1,70 @@
 # 👋 Hello there! I'm Nick
 
-Welcome to my GitHub! I'm a passionate software developer, exploring the fascinating intersection between technology and creativity. My journey has taken me through a diverse set of projects, from building mobile apps that help people stay active, to creating digital ecosystems for sustainable agriculture.
+Welcome to my GitHub. I am a software developer and computer science lecturer in Cape Town who loves building things where technology and creativity meet. My work ranges from playful mobile apps that keep people active, to digital ecosystems that support sustainable agriculture.
 
 ## 🚀 About Me
 
-- 🌱 Currently, I'm learning and building with **Kotlin** and **React Native**.
-- 🏗️ Developing a range of mobile apps, including a cat-themed fitness tracker named **Purrsonal Trainer**, and an Expo app for **PDF exports with Google Maps**.
-- 💻 Strong focus on **testing** and **CI/CD** pipelines, using tools like **Firebase Test Lab** and **GitHub Actions** to maintain quality.
+- 🌱 Currently learning and building with **Tauri** and **scikit-learn**.
+- 🏗️ I have worked on a range of mobile apps, for example the cat-themed fitness tracker **Purrsonal Trainer**, and an Expo app named **Peeper**.
+- ✅ Strong focus on **testing** and **CI/CD** using **Firebase Test Lab** and **GitHub Actions** to keep quality high.
 
-## 🌐 Projects
+## 🌐 Selected Projects
 
-### **Purrsonal Trainer** (Kotlin Android App)
+### Purrsonal Trainer
+A Kotlin Android fitness tracker for gym lovers with a playful twist. Tech highlights: **Firebase Realtime Storage** and **Firebase Authentication**, plus rigorous tests with **MockK** and instrumented tests in CI.
 
-A fitness tracking app designed for gym enthusiasts with a touch of playfulness. It's all about helping users track their workouts while maintaining a sense of fun. I used **Firebase Realtime Storage** for data management and **MockK** for rigorous testing.
+### Agri-Energy Connect
+A digital ecosystem that connects **farmers** with **green energy technology providers**. This grew out of my PROG7311 module work and explores practical paths to agricultural sustainability.
 
-### **Agri-Energy Connect**
+### Peeper XBCAD
+An Expo and React Native project that experiments with cross platform patterns and shared UI, with an eye on quality and performance under CI.
 
-Built to bridge the gap between **farmers** and **green energy technology providers**, this digital ecosystem is part of my commitment to sustainability. It's a PROG7311 module project focused on providing practical solutions for agricultural sustainability.
-
-### **Muninn Reader** (Android Studio - Kotlin)
-
-A sleek reading app designed for consuming articles, with the capability to view **PDFs** directly in the app. My goal here is to create a user-friendly reading experience, from design to functionality.
-
-### **React Native Projects**
-
-I've been developing apps using **React Native** with Expo, such as a tracking app utilizing **react-native-maps** to plot user movement and a **PDF exporter** that integrates Google Maps views.
+### Teaching and research
+I teach and create materials for modules such as IMAD5112. My research interests include video game sentiment analysis, plus the relationship between mergers and acquisitions and game quality.
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Kotlin, JavaScript, TypeScript, C#
-- **Mobile Development**: React Native (Expo), Android Studio (Kotlin)
-- **Cloud & Tools**: Firebase, GitHub Actions, Docker, Clerk (Authentication)
-- **Frontend**: React, HTML/CSS
+- **Languages**: Kotlin, JavaScript, TypeScript, C#, Python
+- **Mobile**: React Native with Expo, Android Studio with Kotlin
+- **Cloud and Tools**: Firebase, GitHub Actions, Docker, Clerk for auth
+- **Frontend**: React, HTML and CSS
 - **Backend**: Node.js, Firebase Functions
 
-## ✨ Interests
+## 🧪 Testing and CI Highlights
 
-- 📱 **Mobile App Development**: Making user experiences delightful and functional.
-- 🌿 **Sustainability & Tech**: Connecting green energy solutions with everyday users.
-- 🤖 **Automation & Testing**: Using **CI/CD pipelines** and automated testing tools to deliver reliable software.
+- Unit and instrumented tests with **MockK**, JUnit, and AndroidX test libraries.
+- **Firebase Test Lab** for device matrices in CI.
+- **dorny/test-reporter** for clean reporting on pull requests.
+- GitHub Actions workflows provided in this repo under `.github/workflows` as copy friendly examples.
+
+## 📚 Recent Learning
+
+- Tauri desktop apps, packaging, and native bridges.
+- scikit-learn pipelines, model evaluation, and practical ML patterns.
+- Android CI with Firebase Test Lab and matrix strategies.
+- Expo and Clerk authentication flows with JWT sessions.
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ST10204902&show_icons=true&theme=dracula&hide_border=false"
+    alt="Nick's GitHub stats" />
+  <img
+    src="https://streak-stats.demolab.com?user=ST10204902&theme=dracula&hide_border=false"
+    alt="Nick's GitHub streak" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ST10204902&layout=compact&theme=dracula&hide_border=false"
+    alt="Top Langs" />
+</p>
+
 
 ## 📫 Get in Touch
 
-- 🌐 [LinkedIn](www.linkedin.com/in/nicholas-m-1405a7133)
+- 🌐 LinkedIn: [www.linkedin.com/in/nicholas-m-1405a7133](https://www.linkedin.com/in/nicholas-m-1405a7133)
 
-Feel free to explore my repositories, contribute, or just say hi! I'm always excited to connect with others passionate about making meaningful, creative impacts in tech.
+If you share an interest in reliable mobile software, practical ML, or developer experience, say hi or open an issue. I am always keen to collaborate on meaningful, creative work.
 
 ---
 
-Thanks for visiting! Let's create something amazing together!
-
+Thanks for stopping by. Let us build something great.
