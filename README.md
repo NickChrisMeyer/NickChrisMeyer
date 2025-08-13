@@ -10,14 +10,14 @@ Welcome to my GitHub. I am a software developer and computer science lecturer in
 
 ## 🌐 Selected Projects
 
+### MLDL Bench
+An open source machine learning hardware benchmarking leaderboard system consisting of a Tauri desktop app and Next.js website. Learning Rust as an orchestrator service
+
 ### Purrsonal Trainer
 A Kotlin Android fitness tracker for gym lovers with a playful twist. Tech highlights: **Firebase Realtime Storage** and **Firebase Authentication**, plus rigorous tests with **MockK** and instrumented tests in CI.
 
 ### Agri-Energy Connect
 A digital ecosystem that connects **farmers** with **green energy technology providers**. This grew out of my PROG7311 module work and explores practical paths to agricultural sustainability.
-
-### Peeper XBCAD
-An Expo and React Native project that experiments with cross platform patterns and shared UI, with an eye on quality and performance under CI.
 
 ### Teaching and research
 I teach and create materials for modules such as IMAD5112. My research interests include video game sentiment analysis, plus the relationship between mergers and acquisitions and game quality.
