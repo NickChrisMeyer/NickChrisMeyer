@@ -47,13 +47,13 @@ I teach and create materials for modules such as IMAD5112. My research interests
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ST10204902&show_icons=true&theme=dracula&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api?username=NickChrisMeyer&show_icons=true&theme=dracula&hide_border=false"
     alt="Nick's GitHub stats" />
   <img
-    src="https://streak-stats.demolab.com?user=ST10204902&theme=dracula&hide_border=false"
+    src="https://streak-stats.demolab.com?user=NickChrisMeyer&theme=dracula&hide_border=false"
     alt="Nick's GitHub streak" />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ST10204902&layout=compact&theme=dracula&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickChrisMeyer&layout=compact&theme=dracula&hide_border=false"
     alt="Top Langs" />
 </p>
 
