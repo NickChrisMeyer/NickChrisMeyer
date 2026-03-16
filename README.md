@@ -1,28 +1,25 @@
-# 👋 Hello there! I'm Nick
+#  Hello there! I'm Nick
 
 Welcome to my GitHub. I am a software developer and computer science lecturer in Cape Town who loves building things where technology and creativity meet. My work ranges from playful mobile apps that keep people active, to digital ecosystems that support sustainable agriculture.
 
-## 🚀 About Me
+##  About Me
 
-- 🌱 Currently learning and building with **Tauri** and **scikit-learn**.
-- 🏗️ I have worked on a range of mobile apps, for example the cat-themed fitness tracker **Purrsonal Trainer**, and an Expo app named **Peeper**.
-- ✅ Strong focus on **testing** and **CI/CD** using **Firebase Test Lab** and **GitHub Actions** to keep quality high.
+-  Currently learning and building with **Tauri** and **scikit-learn**.
+-  I have worked on a range of mobile apps, for example the cat-themed fitness tracker **Purrsonal Trainer**, and an Expo app named **Peeper**.
+-  Strong focus on **testing** and **CI/CD** using **Firebase Test Lab** and **GitHub Actions** to keep quality high.
 
-## 🌐 Selected Projects
+##  Selected Projects
 
-### MLDL Bench
-An open source machine learning hardware benchmarking leaderboard system consisting of a Tauri desktop app and Next.js website. Learning Rust as an orchestrator service
+### Research Project
+Take a look [here](https://github.com/NickChrisMeyer/ST10204902-Research-Project)
 
 ### Purrsonal Trainer
 A Kotlin Android fitness tracker for gym lovers with a playful twist. Tech highlights: **Firebase Realtime Storage** and **Firebase Authentication**, plus rigorous tests with **MockK** and instrumented tests in CI.
 
-### Agri-Energy Connect
-A digital ecosystem that connects **farmers** with **green energy technology providers**. This grew out of my PROG7311 module work and explores practical paths to agricultural sustainability.
-
 ### Teaching and research
-I teach and create materials for modules such as IMAD5112. My research interests include video game sentiment analysis, plus the relationship between mergers and acquisitions and game quality.
+I teach and create materials for modules at a tertiary institution. My research interests include video game sentiment analysis, plus the relationship between mergers and acquisitions and game quality.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Languages**: Kotlin, JavaScript, TypeScript, C#, Python
 - **Mobile**: React Native with Expo, Android Studio with Kotlin
@@ -30,23 +27,23 @@ I teach and create materials for modules such as IMAD5112. My research interests
 - **Frontend**: React, HTML and CSS
 - **Backend**: Node.js, Firebase Functions
 
-## 🧪 Testing and CI Highlights
+##  Testing and CI Highlights
 
 - Unit and instrumented tests with **MockK**, JUnit, and AndroidX test libraries.
 - **Firebase Test Lab** for device matrices in CI.
 - **dorny/test-reporter** for clean reporting on pull requests.
 
-## 📚 Recent Learning
+##  Recent Learning
 
 - Tauri desktop apps, packaging, and native bridges.
 - scikit-learn pipelines, model evaluation, and practical ML patterns.
 - Android CI with Firebase Test Lab and matrix strategies.
 - Expo and Clerk authentication flows with JWT sessions.
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 
-## 📫 Get in Touch
+##  Get in Touch
 
 - 🌐 LinkedIn: [www.linkedin.com/in/nicholas-m-1405a7133](https://www.linkedin.com/in/nicholas-m-1405a7133)
 
